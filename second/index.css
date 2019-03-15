@@ -1,0 +1,83 @@
+.first-box {
+    margin: auto;
+    height: 300px;
+    width: 95vw;
+    border: 5px solid rgb(137, 0, 0);
+    
+}
+.purplebox {
+    background: purple;
+    height: 90%;
+    width: 70px;
+    display: inline-block;
+    margin-left: 1%;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.flag {
+    background: green;
+    display: inline-block;
+    height: 250px;
+    width: 450px;
+    margin-bottom: 15px;
+
+}
+.redcir {
+    background: red;
+    height: 170px;
+    width: 170px;
+    margin: auto;
+   border-radius: 50%;
+   margin-top: 40px
+}
+
+.message {
+    
+    display: inline;
+    background: black;
+    color: white;
+    height: 100px;   
+    width: 100;
+ 
+}
+
+.nbox {
+    margin: 50px auto;
+    height: 300px;
+    width: 95vw;
+    border: 5px dotted black
+
+
+
+}
+.yellowbox {
+    background: yellowgreen;
+    height: 80%;
+    width: 90%;
+    margin: 30px auto;
+    box-shadow: 10px 10px rgb(81, 78, 78);
+
+}
+.lastbox {
+    background: rgba(105, 101, 101, 0.918);
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 5px 5px rgb(81, 78, 78);
+    text-align: center;
+
+    
+
+} 
+p {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    position: relative;
+    margin-top: 0;
+    
+
+    
+   
+}

@@ -1,0 +1,28 @@
+
+* {
+    background: rgb(204, 204, 225);
+    margin: 0;
+    padding: 0;
+}
+
+.firstbox { 
+    background: rgb(74, 58, 58);
+    height: 20vh;
+    width: 100vw;
+    margin: 0;
+}
+.mid_box {
+    background: rgb(145, 139, 139);
+    width: 80vw;
+    height: 75vh;
+    margin: auto;
+}
+.blackbox {
+background: black;
+width: 80vw;
+height: 100px;
+position: absolute;
+bottom: 0;
+
+
+}
